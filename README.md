@@ -1,4 +1,4 @@
-# Projeto_Pedido_de_Bolo
+# Projeto Pedido de Bolo
 Neste projeto que já conta com 3 versões, criei com o intuito de testar meus conhecimentos com os conceitos aprendidos na Linguagem de programação Java, onde a cada projeto tento trazer novas funcionalidades, organizar e refatorar o código!
 
 ## Qual foi a inspiração do projeto?
